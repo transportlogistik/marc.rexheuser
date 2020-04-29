@@ -1,0 +1,46 @@
+---
+output:
+  html_document:
+    theme: united
+    toc: false
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+---
+
+#  {.tabset}
+
+## Desatec
+
+### Kontakt
+
+prime: Manuela Wagner, 040 8222312-16
+Hr. Radeloff
+Hr. Glasner? (zusammen in Meeting mit A.Beplat in ca. 2013/15)
+
+####27.04. 
+
+9am. offen freundliches Telefonat, 11 min, offen für Angebote, wenn konkrete Sendungen anstehen. Momentan wegen Corona afrikanische Kunden zurückhaltend. Südafrika komplett abgeriegelt, Häfen geschlossen. Keine Orders. Kontakt schicken und dran bleiben
+
+prime: Manuela Wagner, 040 8222312-16
+Hr. Radeloff
+Hr. Glasner? (zusammen in Meeting mit A.Beplat in ca. 2013/15)
+
+### Status
+
+offen für neue Zusammenarbeit, preisabhängig, fragt spotmässig an, auch cross ab China
+
+### Ziel
+
+FCL ab (ATL) LHV nach Lusaka
+FCL ab Sarguemuines nach Lusaka, DG cargo - batteries
+FCL ab Himoinsa nach Maputo
+LF ab Himoinsa nach Maputo
+
+### Wichtig
+
+kein MSC! "arbeitet" mit Maersk
+
+
+
+
